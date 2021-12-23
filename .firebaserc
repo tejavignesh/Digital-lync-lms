@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "digital-lync-lms",
+    "dk": "digital-lync-lms"
+  },
+  "targets": {}
+}
